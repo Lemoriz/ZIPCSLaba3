@@ -1,0 +1,15 @@
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\App.g.cs
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF_MarkupCompile.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF_MarkupCompile.lref
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\bin\Debug\Laba3WPF.exe.config
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\bin\Debug\Laba3WPF.exe
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\bin\Debug\Laba3WPF.pdb
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\MainWindow.baml
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.g.resources
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.Properties.Resources.resources
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.csproj.GenerateResource.Cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.exe
+C:\Users\Ramil\Desktop\ForUniversity\Laba3WPF\Laba3WPF\obj\Debug\Laba3WPF.pdb
